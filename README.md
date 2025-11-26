@@ -1,4 +1,4 @@
-# 🏛️ id legislation file tree
+# 🏛️ Idaho legislation file tree
 
 Download a copy of your states legislation.
 
